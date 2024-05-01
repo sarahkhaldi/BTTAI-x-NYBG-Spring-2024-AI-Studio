@@ -8,3 +8,6 @@ To use image classification machine learning techniques to train a model capable
 
 ## Results:
 Achieved a model with 97.8 accuracy score.
+
+## Write Up Link:
+https://unique-peanut-0e0.notion.site/BTTAI-x-NYBG-Spring-2024-AI-Studio-dfbf16c559db4c60a123dbc05f882cfe
